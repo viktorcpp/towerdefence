@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<maps>
+	<i id="map-atol" name="map-atol-name" balance="1120" waves="1" enemyes-in-wave="20" lose-limit="20" timer="45" ico-big="map-atol-preview-big" ico-small="map-atol-preview-small" map-req="" spawn="a-left-2" target="a-right-2">
+		<arcenal wpn="wpn-warrior, wpn-flash, wpn-tornado, wpn-thud, NULL, NULL" />
+		<w list="unit-samson, unit-samson, unit-samson, unit-samson, unit-stumpy, unit-stumpy, unit-stumpy, unit-stumpy, unit-bulldog, unit-bulldog, unit-bulldog, unit-bulldog, unit-fat, unit-fat, unit-fat, unit-fat, unit-vamp, unit-vamp, unit-vamp, unit-vamp" />
+	</i>
+	<i id="map-sectheatol" name="map-sectheatol-name" balance="120" waves="20" enemyes-in-wave="20" lose-limit="20" timer="45" ico-big="map-sectheatol-preview-big" ico-small="map-sectheatol-preview-small" map-req="map-atol" spawn="a-left-1" target="a-top-6">
+		<arcenal wpn="wpn-warrior, wpn-flash, wpn-tornado, wpn-thud, NULL NULL" />
+		<w list="unit-samson, unit-samson, unit-samson, unit-samson, unit-stumpy, unit-stumpy, unit-stumpy, unit-stumpy, unit-bulldog, unit-bulldog, unit-bulldog, unit-bulldog, unit-fat, unit-fat, unit-fat, unit-fat, unit-vamp, unit-vamp, unit-vamp, unit-vamp" />
+	</i>
+	<i id="map-thestand" name="map-thestand-name" balance="120" waves="50" enemyes-in-wave="20" lose-limit="20" timer="40" ico-big="map-thestand-preview-big" ico-small="map-thestand-preview-small" map-req="map-socold" spawn="" target="">
+		<arcenal wpn="wpn-warrior, wpn-flash, wpn-tornado, wpn-thud" />
+		<w list="unit-samson, unit-samson, unit-samson, unit-samson, unit-stumpy, unit-stumpy, unit-stumpy, unit-stumpy, unit-bulldog, unit-bulldog, unit-bulldog, unit-bulldog, unit-fat, unit-fat, unit-fat, unit-fat, unit-vamp, unit-vamp, unit-vamp, unit-vamp" />
+	</i>
+	<i id="map-socold" name="map-socold-name" balance="120" waves="30" enemyes-in-wave="20" lose-limit="20" timer="35" ico-big="map-socold-preview-big" ico-small="map-socold-preview-small" map-req="map-thestand" spawn="" target="">
+		<arcenal wpn="wpn-warrior, wpn-flash, wpn-tornado, wpn-thud" />
+		<w list="unit-samson, unit-samson, unit-samson, unit-samson, unit-stumpy, unit-stumpy, unit-stumpy, unit-stumpy, unit-bulldog, unit-bulldog, unit-bulldog, unit-bulldog, unit-fat, unit-fat, unit-fat, unit-fat, unit-vamp, unit-vamp, unit-vamp, unit-vamp" />
+	</i>
+	<i id="map-frozenhills" name="map-frozenhills-name" balance="120" waves="50" enemyes-in-wave="20" lose-limit="20" timer="30" ico-big="map-frozenhills-preview-big" ico-small="map-frozenhills-preview-small" map-req="map-socold" spawn="" target="">
+		<arcenal wpn="wpn-warrior, wpn-flash, wpn-tornado, wpn-thud" />
+		<w list="unit-samson, unit-samson, unit-samson, unit-samson, unit-stumpy, unit-stumpy, unit-stumpy, unit-stumpy, unit-bulldog, unit-bulldog, unit-bulldog, unit-bulldog, unit-fat, unit-fat, unit-fat, unit-fat, unit-vamp, unit-vamp, unit-vamp, unit-vamp" />
+	</i>
+</maps>

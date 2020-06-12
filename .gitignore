@@ -1,0 +1,18 @@
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.meta
+/obj
+/Library/ScriptAssemblies
+/Library
+/Temp
+/!build
+/Assembly-CSharp-Editor.pidb
+/Assembly-CSharp-firstpass.pidb
+/Assembly-CSharp.pidb
+/Assembly-UnityScript-firstpass.pidb
+/Assembly-UnityScript.pidb
+/Sophi Adventures.userprefs
+/!builds

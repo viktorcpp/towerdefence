@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<save version="1.0">
+    <player name="" id="id" datebirth="0" />
+    <opt music="1" sound="1" />
+    <maps>
+        <i id="map-atol" cnt="0" />
+    </maps>
+</save>
+

@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<lang>
+	<label>
+		<id>lbl-ok</id>
+		<ru><![CDATA[ OK ]]></ru>
+		<en><![CDATA[ OK ]]></en>
+		<de><![CDATA[ OK ]]></de>
+	</label>
+	<label>
+		<id>lbl-cancel</id>
+		<ru><![CDATA[ Отмена ]]></ru>
+		<en><![CDATA[ Cancel ]]></en>
+		<de><![CDATA[ Cancel ]]></de>
+	</label>
+	<label>
+		<id>lbl-retry</id>
+		<ru><![CDATA[ Повторить ]]></ru>
+		<en><![CDATA[ Retry ]]></en>
+		<de><![CDATA[ Retry ]]></de>
+	</label>
+	<label>
+		<id>lbl-exit</id>
+		<ru><![CDATA[ Выйти ]]></ru>
+		<en><![CDATA[ Exit ]]></en>
+		<de><![CDATA[ Exit ]]></de>
+	</label>
+	<label>
+		<id>lbl-music</id>
+		<ru><![CDATA[ Музыка ]]></ru>
+		<en><![CDATA[ Music ]]></en>
+		<de><![CDATA[ Music ]]></de>
+	</label>
+	<label>
+		<id>lbl-sound</id>
+		<ru><![CDATA[ Звуки ]]></ru>
+		<en><![CDATA[ Sound ]]></en>
+		<de><![CDATA[ Sound ]]></de>
+	</label>
+	<label>
+		<id>lbl-loading</id>
+		<ru><![CDATA[ Загрузка ]]></ru>
+		<en><![CDATA[ Loading ]]></en>
+		<de><![CDATA[ Loading ]]></de>
+	</label>
+	<label>
+		<id>lbl-back</id>
+		<ru><![CDATA[ Назад ]]></ru>
+		<en><![CDATA[ Back ]]></en>
+		<de><![CDATA[ Zurück ]]></de>
+	</label>
+	<label>
+		<id>lbl-play</id>
+		<ru><![CDATA[ Играть ]]></ru>
+		<en><![CDATA[ Play ]]></en>
+		<de><![CDATA[ Play ]]></de>
+	</label>
+	<label>
+		<id>lbl-pause</id>
+		<ru><![CDATA[ Пауза ]]></ru>
+		<en><![CDATA[ Pause ]]></en>
+		<de><![CDATA[ Pause ]]></de>
+	</label>
+	<label>
+		<id>lbl-continue</id>
+		<ru><![CDATA[ Продолжить ]]></ru>
+		<en><![CDATA[ Continue ]]></en>
+		<de><![CDATA[ Continue ]]></de>
+	</label>
+	<label>
+		<id>lbl-options</id>
+		<ru><![CDATA[ Настройки ]]></ru>
+		<en><![CDATA[ Options ]]></en>
+		<de><![CDATA[ Options ]]></de>
+	</label>
+	<label>
+		<id>lbl-close</id>
+		<ru><![CDATA[ Закрыть ]]></ru>
+		<en><![CDATA[ Close ]]></en>
+		<de><![CDATA[ Close ]]></de>
+	</label>
+	<label>
+		<id>lbl-price</id>
+		<ru><![CDATA[ Цена: ]]></ru>
+		<en><![CDATA[ Price: ]]></en>
+		<de><![CDATA[ Price: ]]></de>
+	</label>
+	<label>
+		<id>lbl-range</id>
+		<ru><![CDATA[ Дальность: ]]></ru>
+		<en><![CDATA[ Range: ]]></en>
+		<de><![CDATA[ Range: ]]></de>
+	</label>
+	<label>
+		<id>lbl-dps</id>
+		<ru><![CDATA[ Урон в сек: ]]></ru>
+		<en><![CDATA[ DPS: ]]></en>
+		<de><![CDATA[ DPS: ]]></de>
+	</label>
+	<label>
+		<id>lbl-firerate</id>
+		<ru><![CDATA[ Выстрелы в сек: ]]></ru>
+		<en><![CDATA[ Shoot in sec: ]]></en>
+		<de><![CDATA[ Shoot in sec: ]]></de>
+	</label>
+	<label>
+		<id>lbl-damage</id>
+		<ru><![CDATA[ Урон: ]]></ru>
+		<en><![CDATA[ Damage: ]]></en>
+		<de><![CDATA[ Damage: ]]></de>
+	</label>
+	<label>
+		<id>lbl-buy</id>
+		<ru><![CDATA[ Купить: ]]></ru>
+		<en><![CDATA[ Buy: ]]></en>
+		<de><![CDATA[ Buy: ]]></de>
+	</label>
+	<label>
+		<id>lbl-reward</id>
+		<ru><![CDATA[ Награда: ]]></ru>
+		<en><![CDATA[ Reward: ]]></en>
+		<de><![CDATA[ Reward: ]]></de>
+	</label>
+	<label>
+		<id>lbl-health</id>
+		<ru><![CDATA[ Здоровье: ]]></ru>
+		<en><![CDATA[ Health: ]]></en>
+		<de><![CDATA[ Health: ]]></de>
+	</label>
+	<label>
+		<id>lbl-make-upgrade</id>
+		<ru><![CDATA[ Улучшить ]]></ru>
+		<en><![CDATA[ Upgrade: ]]></en>
+		<de><![CDATA[ Upgrade: ]]></de>
+	</label>
+	<label>
+		<id>lbl-details</id>
+		<ru><![CDATA[ Детально ]]></ru>
+		<en><![CDATA[ Details ]]></en>
+		<de><![CDATA[ Details ]]></de>
+	</label>
+	<label>
+		<id>lbl-time</id>
+		<ru><![CDATA[ Время: ]]></ru>
+		<en><![CDATA[ Time: ]]></en>
+		<de><![CDATA[ Time: ]]></de>
+	</label>
+	<label>
+		<id>lbl-sell</id>
+		<ru><![CDATA[ Продать ]]></ru>
+		<en><![CDATA[ Sell ]]></en>
+		<de><![CDATA[ Sell ]]></de>
+	</label>
+	<label>
+		<id>lbl-upgrades-count</id>
+		<ru><![CDATA[ Улучшения: ]]></ru>
+		<en><![CDATA[ Upgrades: ]]></en>
+		<de><![CDATA[ Upgrades: ]]></de>
+	</label>
+	<label>
+		<id>lbl-main-menu-btn-play</id>
+		<ru><![CDATA[ Играть ]]></ru>
+		<en><![CDATA[ Play ]]></en>
+		<de><![CDATA[ Play ]]></de>
+	</label>
+	<label>
+		<id>lbl-main-menu-btn-options</id>
+		<ru><![CDATA[ Настройки ]]></ru>
+		<en><![CDATA[ Options ]]></en>
+		<de><![CDATA[ Options ]]></de>
+	</label>
+	<label>
+		<id>lbl-main-menu-btn-test</id>
+		<ru><![CDATA[ Тест ]]></ru>
+		<en><![CDATA[ Test ]]></en>
+		<de><![CDATA[ Test ]]></de>
+	</label>
+	<label>
+		<id>lbl-main-menu-btn-exit</id>
+		<ru><![CDATA[ Выйти ]]></ru>
+		<en><![CDATA[ Exit ]]></en>
+		<de><![CDATA[ Exit ]]></de>
+	</label>
+	<label>
+		<id>lbl-main-menu-btn-about</id>
+		<ru><![CDATA[ О программе ]]></ru>
+		<en><![CDATA[ About ]]></en>
+		<de><![CDATA[ About ]]></de>
+	</label>
+	<label>
+		<id>lbl-about</id>
+		<ru><![CDATA[ Тестовое задание для неизвестной компании
+Тестовое задание для неизвестной компании
+Тестовое задание для неизвестной компании
+Тестовое задание для неизвестной компании
+Тестовое задание для неизвестной компании
+Тестовое задание для неизвестной компании
+Тестовое задание для неизвестной компании
+Тестовое задание для неизвестной компании
+Тестовое задание для неизвестной компании ]]></ru>
+		<en><![CDATA[ About ]]></en>
+		<de><![CDATA[ About ]]></de>
+	</label>
+	<label>
+		<id>lbl-confirm-exit</id>
+		<ru><![CDATA[ Вы действительно хотите выйти? ]]></ru>
+		<en><![CDATA[ Do you really want to quit? ]]></en>
+		<de><![CDATA[ Wollen Sie wirklich beenden? ]]></de>
+	</label>
+	<label>
+		<id>lbl-confirm-back-main-menu</id>
+		<ru><![CDATA[ Вы действительно хотите вернуться в главное меню? ]]></ru>
+		<en><![CDATA[ Do you really want to quit to main menu? ]]></en>
+		<de><![CDATA[ Wollen Sie wirklich, um zum Hauptmenü zurückzukehren? ]]></de>
+	</label>
+	<label>
+		<id>lbl-balance</id>
+		<ru><![CDATA[ Баланс ]]></ru>
+		<en><![CDATA[ Balance ]]></en>
+		<de><![CDATA[ Balance ]]></de>
+	</label>
+	<label>
+		<id>lbl-waves-count</id>
+		<ru><![CDATA[ Кол-во волн ]]></ru>
+		<en><![CDATA[ Waves count ]]></en>
+		<de><![CDATA[ Waves zählen ]]></de>
+	</label>
+	<label>
+		<id>lbl-enemyes-in-wave</id>
+		<ru><![CDATA[ Врагов в волне ]]></ru>
+		<en><![CDATA[ Enemyes in wave ]]></en>
+		<de><![CDATA[ Enemyes in wave ]]></de>
+	</label>
+	<label>
+		<id>lbl-timer-mm-ss</id>
+		<ru><![CDATA[ Таймер [ММ:СС] ]]></ru>
+		<en><![CDATA[ Таймер [MM:SS] ]]></en>
+		<de><![CDATA[ Таймер [MM:SS] ]]></de>
+	</label>
+	<label>
+		<id>lbl-map-balance-xx</id>
+		<ru><![CDATA[ Баланс: {0} ]]></ru>
+		<en><![CDATA[ Balance: {0} ]]></en>
+		<de><![CDATA[ Balance: {0} ]]></de>
+	</label>
+	<label>
+		<id>lbl-map-waves-count-xx</id>
+		<ru><![CDATA[ Волн: {0} ]]></ru>
+		<en><![CDATA[ Волн: {0} ]]></en>
+		<de><![CDATA[ Волн: {0} ]]></de>
+	</label>
+	<label>
+		<id>map-atol-name</id>
+		<ru><![CDATA[ Атол: Начало ]]></ru>
+		<en><![CDATA[ Atol: Begins ]]></en>
+		<de><![CDATA[ Atol: Beginnt ]]></de>
+	</label>
+	<label>
+		<id>map-sectheatol-name</id>
+		<ru><![CDATA[ Оборона Атола ]]></ru>
+		<en><![CDATA[ Securing the Atol ]]></en>
+		<de><![CDATA[ Securing the Atol ]]></de>
+	</label>
+	<label>
+		<id>map-thestand-name</id>
+		<ru><![CDATA[ Оборона ]]></ru>
+		<en><![CDATA[ The Stand ]]></en>
+		<de><![CDATA[ The Stand ]]></de>
+	</label>
+	<label>
+		<id>map-socold-name</id>
+		<ru><![CDATA[ Вечная мерзлота ]]></ru>
+		<en><![CDATA[ So cold ]]></en>
+		<de><![CDATA[ So cold ]]></de>
+	</label>
+	<label>
+		<id>map-frozenhills-name</id>
+		<ru><![CDATA[ Замерзшие холмы ]]></ru>
+		<en><![CDATA[ Frozen Hills ]]></en>
+		<de><![CDATA[ Frozen Hills ]]></de>
+	</label>
+	<label>
+		<id>lbl-confirm-start-game</id>
+		<ru><![CDATA[ Хотите начать бой? ]]></ru>
+		<en><![CDATA[ Want to start a fight? ]]></en>
+		<de><![CDATA[ Möchten Sie einen Kampf beginnen? ]]></de>
+	</label>
+	<label>
+		<id>lbl-confirm-cant-attack</id>
+		<ru><![CDATA[ Вы не можете начать вторжение на данную территорию ]]></ru>
+		<en><![CDATA[ You can not launch an invasion into the territory ]]></en>
+		<de><![CDATA[ Sie können nicht starten eine Invasion in das Gebiet ]]></de>
+	</label>
+	<label>
+		<id>lbl-bf-waves</id>
+		<ru><![CDATA[ Волн: ]]></ru>
+		<en><![CDATA[ Waves: ]]></en>
+		<de><![CDATA[ Waves: ]]></de>
+	</label>
+	<label>
+		<id>lbl-bf-balance</id>
+		<ru><![CDATA[ Баланс: ]]></ru>
+		<en><![CDATA[ Balance: ]]></en>
+		<de><![CDATA[ Balance: ]]></de>
+	</label>
+	<label>
+		<id>lbl-bf-wave-limit</id>
+		<ru><![CDATA[ Лимит пропусков: ]]></ru>
+		<en><![CDATA[ Wave pass: ]]></en>
+		<de><![CDATA[ Wave pass: ]]></de>
+	</label>
+	<label>
+		<id>lbl-start-wave-first</id>
+		<ru><![CDATA[ Старт ]]></ru>
+		<en><![CDATA[ Start ]]></en>
+		<de><![CDATA[ Start ]]></de>
+	</label>
+	<label>
+		<id>lbl-start-wave-next</id>
+		<ru><![CDATA[ След. волна ]]></ru>
+		<en><![CDATA[ Next wave ]]></en>
+		<de><![CDATA[ Next wave ]]></de>
+	</label>
+	<label>
+		<id>lbl-bf-timer</id>
+		<ru><![CDATA[ Таймер: ]]></ru>
+		<en><![CDATA[ Timer: ]]></en>
+		<de><![CDATA[ Timer: ]]></de>
+	</label>
+	<label>
+		<id>lbl-game-paused</id>
+		<ru><![CDATA[ Игра приостановлена ]]></ru>
+		<en><![CDATA[ Game paused ]]></en>
+		<de><![CDATA[ Spiel angehalten ]]></de>
+	</label>
+	<label>
+		<id>lbl-game-win</id>
+		<ru><![CDATA[ Победа! ]]></ru>
+		<en><![CDATA[ Victory! ]]></en>
+		<de><![CDATA[ Victory! ]]></de>
+	</label>
+	<label>
+		<id>lbl-game-lose</id>
+		<ru><![CDATA[ Поражение! ]]></ru>
+		<en><![CDATA[ Defeat! ]]></en>
+		<de><![CDATA[ Defeat! ]]></de>
+	</label>
+	<label>
+		<id>lbl-exit-battle-confirm</id>
+		<ru><![CDATA[ Вы действительно хотите покинуть сражение? ]]></ru>
+		<en><![CDATA[ Do you really want to leave the battle? ]]></en>
+		<de><![CDATA[ Wollen Sie wirklich, um den Kampf zu verlassen? ]]></de>
+	</label>
+	<label>
+		<id>wpn-warrior-name</id>
+		<ru><![CDATA[ Warrior ]]></ru>
+		<en><![CDATA[ Warrior ]]></en>
+		<de><![CDATA[ Warrior ]]></de>
+	</label>
+	<label>
+		<id>wpn-flash-name</id>
+		<ru><![CDATA[ Flash ]]></ru>
+		<en><![CDATA[ Flash ]]></en>
+		<de><![CDATA[ Flash ]]></de>
+	</label>
+	<label>
+		<id>wpn-tornado-name</id>
+		<ru><![CDATA[ Tornado ]]></ru>
+		<en><![CDATA[ Tornado ]]></en>
+		<de><![CDATA[ Tornado ]]></de>
+	</label>
+	<label>
+		<id>wpn-thud-name</id>
+		<ru><![CDATA[ Thud ]]></ru>
+		<en><![CDATA[ Thud ]]></en>
+		<de><![CDATA[ Thud ]]></de>
+	</label>
+	<label>
+		<id>wpn-warrior-desc</id>
+		<ru><![CDATA[ Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior ]]></ru>
+		<en><![CDATA[ Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior ]]></en>
+		<de><![CDATA[ Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior Warrior ]]></de>
+	</label>
+	<label>
+		<id>wpn-flash-desc</id>
+		<ru><![CDATA[ Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash ]]></ru>
+		<en><![CDATA[ Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash ]]></en>
+		<de><![CDATA[ Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash Flash ]]></de>
+	</label>
+	<label>
+		<id>wpn-tornado-desc</id>
+		<ru><![CDATA[ Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado ]]></ru>
+		<en><![CDATA[ Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado ]]></en>
+		<de><![CDATA[ Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado Tornado ]]></de>
+	</label>
+	<label>
+		<id>wpn-thud-desc</id>
+		<ru><![CDATA[ Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud ]]></ru>
+		<en><![CDATA[ Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud ]]></en>
+		<de><![CDATA[ Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud Thud ]]></de>
+	</label>
+	<label>
+		<id>lbl-enemyes-destroyed</id>
+		<ru><![CDATA[ Уничтожено: ]]></ru>
+		<en><![CDATA[ Destroyed: ]]></en>
+		<de><![CDATA[ Destroyed: ]]></de>
+	</label>
+	<label>
+		<id>unit-samson-name</id>
+		<ru><![CDATA[ Самсон ]]></ru>
+		<en><![CDATA[ Samson ]]></en>
+		<de><![CDATA[ Samson ]]></de>
+	</label>
+	<label>
+		<id>unit-samson-desc</id>
+		<ru><![CDATA[ Самсон описа ние Самсон описа ние Самсон описа ние Самсон описа ние Самсон описа ние Самсон описа ние Самсон описа ние Самсон описа ние Самсон описа ние Самсон описа ние Самсон описа ние  ]]></ru>
+		<en><![CDATA[ Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc  ]]></en>
+		<de><![CDATA[ Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc Samson desc  ]]></de>
+	</label>
+	<label>
+		<id>unit-stumpy-name</id>
+		<ru><![CDATA[ Stumpy ]]></ru>
+		<en><![CDATA[ Stumpy ]]></en>
+		<de><![CDATA[ Stumpy ]]></de>
+	</label>
+	<label>
+		<id>unit-stumpy-desc</id>
+		<ru><![CDATA[ Stumpy описа ние Stumpy описа ние Stumpy описа ние Stumpy описа ние Stumpy описа ние Stumpy описа ние Stumpy описа ние Stumpy описа ние Stumpy описа ние Stumpy описа ние Stumpy описа ние Stumpy описа ние Stumpy описа ние ]]></ru>
+		<en><![CDATA[ Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc ]]></en>
+		<de><![CDATA[ Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc Stumpy desc ]]></de>
+	</label>
+	<label>
+		<id>unit-bulldog-name</id>
+		<ru><![CDATA[ Бульдог ]]></ru>
+		<en><![CDATA[ Bulldog ]]></en>
+		<de><![CDATA[ Bulldog ]]></de>
+	</label>
+	<label>
+		<id>unit-bulldog-desc</id>
+		<ru><![CDATA[ Бульдог описа ние Бульдог описа ние Бульдог описа ние Бульдог описа ние Бульдог описа ние Бульдог описа ние Бульдог описа ние Бульдог описа ние Бульдог описа ние Бульдог описа ние Бульдог описа ние ]]></ru>
+		<en><![CDATA[ Bulldog desc Bulldog desc Bulldog desc Bulldog desc Bulldog desc Bulldog desc Bulldog desc Bulldog desc Bulldog desc Bulldog desc Bulldog desc Bulldog desc Bulldog desc Bulldog desc Bulldog desc ]]></en>
+		<de><![CDATA[ Bulldog desc ]]></de>
+	</label>
+	<label>
+		<id>unit-fat-name</id>
+		<ru><![CDATA[ Толстяк ]]></ru>
+		<en><![CDATA[ Fat ]]></en>
+		<de><![CDATA[ Fat ]]></de>
+	</label>
+	<label>
+		<id>unit-fat-desc</id>
+		<ru><![CDATA[ Толстяк описа ние Толстяк описа ние Толстяк описа ние Толстяк описа ние Толстяк описа ние Толстяк описа ние Толстяк описа ние Толстяк описа ние Толстяк описа ние Толстяк описа ние Толстяк описа ние ]]></ru>
+		<en><![CDATA[ Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc ]]></en>
+		<de><![CDATA[ Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc Fat desc ]]></de>
+	</label>
+	<label>
+		<id>unit-vamp-name</id>
+		<ru><![CDATA[ Вамр ]]></ru>
+		<en><![CDATA[ Vamp ]]></en>
+		<de><![CDATA[ Vamp ]]></de>
+	</label>
+	<label>
+		<id>unit-vamp-desc</id>
+		<ru><![CDATA[ Вамр описа ние Вамр описа ние Вамр описа ние Вамр описа ние Вамр описа ние Вамр описа ние Вамр описа ние Вамр описа ние Вамр описа ние Вамр описа ние Вамр описа ние Вамр описа ние Вамр описа ние Вамр описа ние ]]></ru>
+		<en><![CDATA[ Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc ]]></en>
+		<de><![CDATA[ Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc Vamp desc ]]></de>
+	</label>
+</lang>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

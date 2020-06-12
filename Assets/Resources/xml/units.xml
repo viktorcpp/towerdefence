@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<units>
+	<i id="unit-samson"  name="unit-samson-name"  desc="unit-samson-desc"  ico="unit-samson-ico"  tex="unit-samson-tex"  reward="1"  health="9"  />
+	<i id="unit-stumpy"  name="unit-stumpy-name"  desc="unit-stumpy-desc"  ico="unit-stumpy-ico"  tex="unit-stumpy-tex"  reward="1"  health="9"  />
+	<i id="unit-bulldog" name="unit-bulldog-name" desc="unit-bulldog-desc" ico="unit-bulldog-ico" tex="unit-bulldog-tex" reward="1"  health="15" />
+	<i id="unit-fat"     name="unit-fat-name"     desc="unit-fat-desc"     ico="unit-fat-ico"     tex="unit-fat-tex"     reward="1"  health="18" />
+	<i id="unit-vamp"    name="unit-vamp-name"    desc="unit-vamp-desc"    ico="unit-vamp-ico"    tex="unit-vamp-tex"    reward="1"  health="21" />
+</units>
